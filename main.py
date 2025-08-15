@@ -1,3 +1,5 @@
+# Sample AI-powered data entry automation script
+
 import pandas as pd
 import time
 
